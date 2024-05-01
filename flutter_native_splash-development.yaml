@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/prepitpro_4x_logo.png
+  branding: assets/prepitpro_4x_logo.png
+  color_dark: "#121212"
+  image_dark: assets/prepitpro_4x_logo.png
+  branding_dark: assets/prepitpro_4x_logo.png
+
+  android_12:
+    image: assets/prepitpro_4x_logo.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/prepitpro_4x_logo.png
+    icon_background_color_dark: "#121212"
+
+  web: false
