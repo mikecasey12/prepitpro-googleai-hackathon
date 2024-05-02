@@ -27,7 +27,7 @@ To install and run PrepItPro locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd prepitpro
+   cd prepitpro-googleai-hackathon
    ```
 
 3. Install dependencies:
@@ -57,5 +57,5 @@ Also for details on how to setup and use supabase. Read the [documentation](http
 
 Only SS3 students currently have subjects, so to test the app, make sure your registration class is that of SS3.
 Notifications settings don't work yet.
-External exams don't show the correctly.
+External exams don't show correctly.
 Share link not with correct link.
