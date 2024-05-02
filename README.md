@@ -55,7 +55,9 @@ Also for details on how to setup and use supabase. Read the [documentation](http
 
 ## What don't work
 
-Only SS3 students currently have subjects, so to test the app, make sure your registration class is that of SS3.
-Notifications settings don't work yet.
-External exams don't show correctly.
-Share link not with correct link.
+Only SS3 students currently have subjects, so to test the app, make sure your registration class is that of SS3.  
+Notifications settings don't work yet.  
+External exams don't show correctly.  
+Share link not with correct link.  
+Forget password.  
+Google Sign in. You can setup this up by follow the process [here](https://pub.dev/packages/google_sign_in).
