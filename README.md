@@ -60,4 +60,8 @@ Notifications settings don't work yet.
 External exams don't show correctly.  
 Share link not with correct link.  
 Forget password.  
-Google Sign in. You can setup this up by follow the process [here](https://pub.dev/packages/google_sign_in).
+Google Sign in. You can setup this up by following the process [here](https://pub.dev/packages/google_sign_in).
+
+## Download Test APK
+
+[APP APK](https://github.com/mikecasey12/prepitpro-googleai-hackathon/blob/main/app-armeabi-v7a-release.apk)
